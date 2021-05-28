@@ -6,7 +6,7 @@ I also have lost permissions to update the extension on the marketplace unfortun
 
 # Azure Boards Estimate
 
-![](https://github.com/cschleiden/azure-boards-estimate/workflows/Build%20&%20Deploy/badge.svg)
+![](https://github.com/shanrath/azure-boards-estimate/workflows/Build%20&%20Deploy/badge.svg)
 
 ## Contributing
 
